@@ -1,3 +1,3 @@
 print("print")
 
-print("A")
+print("AA")
